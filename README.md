@@ -1,1 +1,1 @@
-
+This is an Odin Foundations course project on website with recipes from popular culture (movies or books, I haven't decided yet). By the time I have completed it, I will be acknowledged with basic HTML and CSS.
